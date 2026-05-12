@@ -36,9 +36,9 @@ export default function Hero() {
 					className="text-center w-full max-w-[820px] mb-[20px] sm:mb-[16px] xm:mb-[14px]"
 				>
 					<h1 className="font-NeueMontreal font-semibold text-[#212121] tracking-[-2.5px] sm:tracking-[-1.5px] xm:tracking-[-1px] text-[76px] leading-[1] lg:text-[64px] md:text-[52px] sm:text-[40px] xm:text-[32px]">
-						Where startups run.
+						Stop pitching. Start building.
 						<br />
-						<span className="text-[#212121]/35">Where investors find them.</span>
+						<span className="text-[#212121]/35">Let the work speak.</span>
 					</h1>
 				</motion.div>
 
